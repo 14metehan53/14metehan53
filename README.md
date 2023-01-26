@@ -41,7 +41,6 @@
   </ul>
 </ul>
 
-
 <p dir="auto">
  <h6>Eğer Bana Ulaşmak İstersen <a href="https://instagram.com/14metehan53" target="_blank">instagram adresim</a> veya <a href="https://www.linkedin.com/in/14metehan53/" target="_blank">Linkedin</a> adresim burada.</h6>
 </p>
