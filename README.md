@@ -44,7 +44,8 @@
 <h3>Sertifikalarım</h3>
 
 <a target="_blank" href="https://verified.sertifier.com/en/verify/45253843172840">
-  <img style="width:800px; height:566px" src="https://verified-bucket.s3.eu-central-1.amazonaws.com/cert/45253843172840.png" alt="ParibuHub Sertifika">
+<img src="https://user-images.githubusercontent.com/61335521/221593190-3f8609c4-5461-4379-8ad0-7224878ebece.png" width="500">
+<p>Sertifika Doğrula</p>
 </a>
 
 <p dir="auto">
