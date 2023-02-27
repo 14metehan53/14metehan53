@@ -41,6 +41,14 @@
   </ul>
 </ul>
 
+<h3>Sertifikalarım</h3>
+
+<a target="_blank" href="https://verified.sertifier.com/en/verify/45253843172840">
+  <img style="width:800px; height:566px" src="https://verified-bucket.s3.eu-central-1.amazonaws.com/cert/45253843172840.png" alt="ParibuHub Sertifika">
+</a>
+
 <p dir="auto">
  <h6>Eğer Bana Ulaşmak İstersen <a href="https://instagram.com/14metehan53" target="_blank">instagram adresim</a> veya <a href="https://www.linkedin.com/in/14metehan53/" target="_blank">Linkedin adresim</a> burada.</h6>
 </p>
+
+
