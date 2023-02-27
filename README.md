@@ -43,9 +43,8 @@
 
 <h3>Sertifikalarım</h3>
 
-<a target="_blank" href="https://verified.sertifier.com/en/verify/45253843172840">
-<img src="https://user-images.githubusercontent.com/61335521/221593190-3f8609c4-5461-4379-8ad0-7224878ebece.png" width="500">
-<p>Sertifika Doğrula</p>
+<a href="https://verified.sertifier.com/en/verify/45253843172840">
+<img src="https://user-images.githubusercontent.com/61335521/221593190-3f8609c4-5461-4379-8ad0-7224878ebece.png" width="450">
 </a>
 
 <p dir="auto">
