@@ -48,8 +48,9 @@
 </a>
 
 <a href="https://verified.sertifier.com/en/verify/11926932231615">
-<img src="https://api.sertifier.com/userdata/08d966f9-4df6-c4f3-a9bb-9673ceafef4c/1323e309-0e43-4f2c-a03e-a8b4b0b94d28.png" width="400">
+<img src="https://github.com/14metehan53/certificate/blob/main/11926932231615.png" width="400">
 </a>
+
 
 <p dir="auto">
  <h6>Eğer Bana Ulaşmak İstersen <a href="https://instagram.com/14metehan53" target="_blank">instagram adresim</a> veya <a href="https://www.linkedin.com/in/14metehan53/" target="_blank">Linkedin adresim</a> burada.</h6>
