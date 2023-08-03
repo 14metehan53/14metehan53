@@ -44,11 +44,11 @@
 <h3>Sertifikalarım</h3>
 
 <a href="https://verified.sertifier.com/en/verify/45253843172840">
-<img src="https://user-images.githubusercontent.com/61335521/221593190-3f8609c4-5461-4379-8ad0-7224878ebece.png" width="450">
+<img src="https://user-images.githubusercontent.com/61335521/221593190-3f8609c4-5461-4379-8ad0-7224878ebece.png" width="400">
 </a>
 
 <a href="https://verified.sertifier.com/en/verify/11926932231615">
-<img src="https://api.sertifier.com/userdata/08d966f9-4df6-c4f3-a9bb-9673ceafef4c/1323e309-0e43-4f2c-a03e-a8b4b0b94d28.png" width="450">
+<img src="https://api.sertifier.com/userdata/08d966f9-4df6-c4f3-a9bb-9673ceafef4c/1323e309-0e43-4f2c-a03e-a8b4b0b94d28.png" width="400">
 </a>
 
 <p dir="auto">
