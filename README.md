@@ -51,6 +51,9 @@
 <img src="https://github.com/14metehan53/certificate/blob/main/11926932231615.png" width="400">
 </a>
 
+<a href="https://academy.binance.com/en/courses/certificate/e45642f2acdb920de104fec04f9223ecef1b9deddda2b0012902658f91b4ffcc">
+<img src="https://github.com/14metehan53/certificate/blob/main/binance.png" width="400">
+</a>
 
 <p dir="auto">
  <h6>Eğer Bana Ulaşmak İstersen <a href="https://instagram.com/14metehan53" target="_blank">instagram adresim</a> veya <a href="https://www.linkedin.com/in/14metehan53/" target="_blank">Linkedin adresim</a> burada.</h6>
