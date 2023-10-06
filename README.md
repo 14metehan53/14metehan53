@@ -55,6 +55,10 @@
 <img src="https://github.com/14metehan53/certificate/blob/main/binance.png" width="400">
 </a>
 
+<a href="https://patika-prod.s3.eu-central-1.amazonaws.com/certificates/pdf/c0ab2d32">
+<img src="https://patika-prod.s3.eu-central-1.amazonaws.com/certificates/c0ab2d32" width="400">
+</a>
+
 <p dir="auto">
  <h6>Eğer Bana Ulaşmak İstersen <a href="https://instagram.com/14metehan53" target="_blank">instagram adresim</a> veya <a href="https://www.linkedin.com/in/14metehan53/" target="_blank">Linkedin adresim</a> burada.</h6>
 </p>
