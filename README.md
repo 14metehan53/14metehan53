@@ -56,7 +56,7 @@
 </a>
 
 <a href="https://github.com/14metehan53/certificate/blob/main/MEXC2509078.pdf">
-<img src="https://github.com/14metehan53/certificate/blob/main/MEXC2509078.png" width="400">
+<img src="https://github.com/14metehan53/certificate/blob/main/MEXC2509078.png" width="400" height="282">
 </a>
 
 <a href="https://patika-prod.s3.eu-central-1.amazonaws.com/certificates/pdf/830e2b4f">
