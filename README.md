@@ -46,6 +46,8 @@
     <ul>
       <li>React JS</li>
       <li>Next JS</li>
+      <li>Vite</li>
+      <li>Astro</li>
     </ul>
   </li>
   <li>
