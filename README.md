@@ -23,8 +23,9 @@
 <h2>Şu anda ne yapıyorum ?</h2>
 
 <p>
-  Şu anda modern <code><b>SaaS</b></code> projeleri geliştirmeye ve gelecekte kendi <code><b>startup</b></code>'ımı kurabilecek seviyeye gelmeye odaklanıyorum.
-  Özellikle <code><b>Next.js</b></code>, <code><b>TypeScript</b></code>, <code><b>PostgreSQL</b></code>, <code><b>Prisma</b></code>, <code><b>Drizzle</b></code> ve modern frontend / backend araçlarıyla daha profesyonel, ölçeklenebilir ve sürdürülebilir yapılar kurmayı öğrenmeye çalışıyorum.
+  Çalışmalarımı Smart Contract Security Researcher üzerine yoğunlaştırıyorum. Solidity ve EVM ekosistemini derinlemesine öğreniyor; akıllı kontratlardaki güvenlik açıklarını araştırıyor, PoC'ler geliştiriyor ve CTF challenge'ları üzerinde pratik yapıyorum.
+
+Hedefim; Smart Contract Auditing ve Bug Bounty alanlarında kendimi geliştirerek gerçek dünyadaki güvenlik açıklarını tespit edebilen ve teknik bulgularını kanıtlayabilen bir güvenlik araştırmacısı olmak.
 </p>
 
 <p>
