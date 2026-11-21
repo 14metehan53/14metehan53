@@ -1,6 +1,6 @@
-<h1 align="center">Metehan EVCİL kimdir ?</h1>
+<h1>Metehan EVCİL kimdir ?</h1>
 
-<p align="center">
+<p>
   Merhabalar, ben Metehan. 25 yaşındayım Kırklareli'nin / Babaeski ilçesinde yaşıyorum.
   Lise eğitimimi Babaeski Mesleki ve Teknik Anadolu Lisesinde Web Programcılığı bölümünde aldım.
   Üniversite sınavına 3 yıl katılmama rağmen Üniversite okuyamadım.
@@ -10,7 +10,7 @@
   taa ki <code><b>Blockchain</b></code>'i keşfedene kadar.
 </p>
 
-<p align="center">
+<p>
   Aynı zamanda 2018 Yılında Kripto Paralar ile tanıştım o günden beri düzenli olarak yatırımlar yapıyorum.
   Kendime hep şu soruyu soruyordum <b>Kripto paralar nasıl oluşturuluyor ?</b>
   Bu yazılımı ben de çok öğrenmek istiyordum internette birkaç araştırma yaptıktan sonra Kripto paraların yazıldığı dilleri öğrendim
@@ -27,57 +27,6 @@
 
 Hedefim; Smart Contract Auditing ve Bug Bounty alanlarında kendimi geliştirerek gerçek dünyadaki güvenlik açıklarını tespit edebilen ve teknik bulgularını kanıtlayabilen bir güvenlik araştırmacısı olmak.
 </p>
-
-<p>
-  Hedefim sadece kod yazmak değil; gerçek kullanıcı problemlerini çözen, iyi düşünülmüş, güvenli ve büyümeye uygun dijital ürünler geliştirebilmek.
-</p>
-
-<h2>Öğrendiğim ve Öğrenmeye Çalıştığım Diller & Kütüphaneler</h2>
-
-<ul>
-  <li>
-    <b>HTML & CSS</b>
-    <ul>
-      <li>Tailwind CSS</li>
-      <li>shadcn/ui</li>
-    </ul>
-  </li>
-  <li>
-    <b>Javascript / Typescript</b>
-    <ul>
-      <li>React JS</li>
-      <li>Next JS</li>
-      <li>Vite</li>
-      <li>Astro</li>
-    </ul>
-  </li>
-  <li>
-    <b>Backend & API Development</b>
-    <ul>
-      <li>Node JS</li>
-      <li>Nest JS</li>
-      <li>Better Auth</li>
-    </ul>
-  </li>
-  <li>
-    <b>Database & ORM</b>
-    <ul>
-      <li>PostgreSQL</li>
-      <li>NeonDB</li>
-      <li>Prisma</li>
-      <li>Drizzle</li>
-      <li>pgAdmin 4</li>
-    </ul>
-  </li>
-  <li>
-    <b>Solidity</b>
-    <ul>
-      <li>ERC-20</li>
-      <li>ERC-1155</li>
-      <li>ERC-721</li>
-    </ul>
-  </li>
-</ul>
 
 <h2>Sertifikalarım</h2>
 
